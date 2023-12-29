@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\NCS_Exam\bin\Debug\net8.0\Symetric_n_Asy.exe
+C:\Users\Admin\source\repos\NCS_Exam\bin\Debug\net8.0\Symetric_n_Asy.deps.json
+C:\Users\Admin\source\repos\NCS_Exam\bin\Debug\net8.0\Symetric_n_Asy.runtimeconfig.json
+C:\Users\Admin\source\repos\NCS_Exam\bin\Debug\net8.0\Symetric_n_Asy.dll
+C:\Users\Admin\source\repos\NCS_Exam\bin\Debug\net8.0\Symetric_n_Asy.pdb
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.dll
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\refint\Symetric_n_Asy.dll
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.pdb
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\Symetric_n_Asy.genruntimeconfig.cache
+C:\Users\Admin\source\repos\NCS_Exam\obj\Debug\net8.0\ref\Symetric_n_Asy.dll
